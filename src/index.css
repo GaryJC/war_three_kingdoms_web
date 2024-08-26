@@ -9,7 +9,8 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  /* background-color: #242424; */
+  background-color: rgb(3 7 18);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -33,6 +34,10 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  max-width: 1750px;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-color: black; */
 }
 
 h1 {
@@ -88,8 +93,8 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
-    background-color: #ffffff;
+    /* color: #213547; */
+    /* background-color: #ffffff; */
   }
   a:hover {
     color: #747bff;

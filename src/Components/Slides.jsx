@@ -55,7 +55,7 @@ export default function Slides() {
   ];
 
   return (
-    <div className="w-screen h-screen">
+    <div className="w-full h-screen">
       <Swiper
         slidesPerView={1}
         loop={true}

@@ -1,6 +1,6 @@
 export default function Homepage() {
   return (
-    <div className="w-screen h-screen bg-[url('/img/bg_main.png')] bg-cover flex flex-col items-center justify-center">
+    <div className="w-full h-screen bg-[url('/img/bg_main.png')] bg-cover flex flex-col items-center justify-center">
       <img
         src="/img/logo_game.png"
         alt="logo"

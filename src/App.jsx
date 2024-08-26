@@ -7,12 +7,12 @@ import Slides from "./Components/Slides";
 
 function App() {
   return (
-    <>
+    <div className="max-w-[1750px]">
       <Homepage />
       <Slides />
       <Description />
       <Feature />
-    </>
+    </div>
   );
 }
 

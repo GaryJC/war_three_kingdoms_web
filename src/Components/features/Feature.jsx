@@ -13,7 +13,7 @@ import { Parallax, Pagination, Navigation } from "swiper/modules";
 
 export default function Feature() {
   return (
-    <div className="h-screen w-screen">
+    <div className="h-screen w-full">
       <Swiper
         style={{
           "--swiper-navigation-color": "#fff",
