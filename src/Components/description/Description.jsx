@@ -53,7 +53,7 @@ const screenshots = [
 
 export default function Description() {
   return (
-    <div className="h-screen w-full flex flex-wrap justify-evenly items-center bg-slate-950">
+    <div className="h-[850px] w-full flex flex-wrap justify-evenly items-center bg-slate-950">
       <div className="sm:w-[40%] w-[80%] text-slate-300 text-lg">
         <p>
           80% Beauty and Power! Step into the stunning world of ancient China

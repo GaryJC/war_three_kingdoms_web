@@ -7,7 +7,7 @@ import Slides from "./Components/Slides";
 
 function App() {
   return (
-    <div className="max-w-[1750px]">
+    <div className="w-screen max-w-[1750px]">
       <Homepage />
       <Slides />
       <Description />
